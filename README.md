@@ -2,4 +2,6 @@
 
 this is my demo repository 
 
-Author - Ritik
+Author - Ritik Dhiman
+
+
